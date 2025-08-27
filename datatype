@@ -1,0 +1,21 @@
+understanding the concept of data type in java scrpt
+"use strict";//treat all js code as newer version
+console.log(3+3);
+let name="sumit";//string data type
+let age=22;//number data type
+let isloggedIn=true;//boolean data type
+
+
+number=>2 to power 53
+
+console.log(power);
+bigint
+string
+boolean =>true/false
+null=>standalone value
+undefined
+symbol=>unique value
+
+
+//object
+console.log(typeof sumit);
