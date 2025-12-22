@@ -19,3 +19,72 @@ symbol=>unique value
 
 //object
 console.log(typeof sumit);
+
+
+
+
+
+
+
+
+
+
+
+
+// data types is a types of value that tells what kind of value we are working with
+
+// 1. Number: represents numeric values, both integers and floating-point numbers.
+let age = 30; // integer
+let price = 19.99; // floating-point number
+
+// there are two types of data types in javascript
+// 1. Primitive data types
+// 2. Non-primitive data types
+
+
+
+
+1// primitive data types
+Number
+String
+Boolean
+Undefined
+Null
+Symbol
+BigInt
+
+// non-primitive data types
+Object
+Array
+Function
+Date
+RegExp
+Error
+
+
+
+let fullname = "Alice Smith"; //
+typeof fullname; // "string"
+
+isfollowing = true; //
+typeof isfollowing; // "boolean" 
+
+
+
+
+
+
+const student = {
+    fullName: "sumit raput",
+    age : 23;
+    cgpa : 7.0;
+    isPassed : true;
+}
+// let x = 1000;
+// let y = '100;
+// console.log(x + y); // "1000100"
+
+
+
+
+
