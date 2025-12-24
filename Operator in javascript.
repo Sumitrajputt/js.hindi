@@ -1,0 +1,83 @@
+Operator in javascript.
+
+operator in javascript is a special symbol or keyword that is used to perform operations on operands (values and variables). Operators can be classified into several categories based on their functionality. Here are some common types of operators in JavaScript:
+// Arithmetic Operators: Used for mathematical calculations.
+
+
+let a = 10;
+let b = 5;
+let sum = a + b; // Addition
+
+
+different types of operators in javascript
+
+
+assigmentment operator
+conditional operator
+increment and decrement operator
+comparison operator
+logical operator    
+
+
+
+
+let difference = a - b; // Subtraction
+let product = a * b;    // Multiplication
+let quotient = a / b;  // Division
+let remainder = a % b; // Modulus           
+let increment = ++a; // Increment
+let decrement = --b; // Decrement
+
+
+
+// Assignment Operators: Used to assign values to variables.
+
+
+let a=10;
+let b=5;
+console.log(a + b); // a = a + b
+
+modulus operator in java script
+
+
+
+assigment operator in javascript
+let x = 10; // Assignment
+x += 5; // x = x + 5
+x -= 3; // x = x - 3
+x *= 2;
+
+
+comparisiopn operator in javascript
+
+
+let x = 10; 
+let y = 5;
+console.log(x > y); // Greater than
+console.log(x < y); // Less than
+console.log(x >= y); // Greater than or equal to
+console.log(x <= y);            // Less than or equal to
+
+console.log(x == y); // Equal to
+console.log(x != y); // Not equal to
+console.log(x === y); // Strict equal to
+console.log(x !== y); // Strict not equal to
+console.log(x === 10); // Strict equal to
+console.log(x !== 5); // Strict not equal to
+console.log(x == '10'); // Equal to
+console.log(x != '5'); // Not equal to
+console.log(x === '10'); // Strict equal to
+
+
+
+Logical Operators: Used to combine multiple conditions.
+
+
+let x = 10;
+let y = 5;
+console.log(x > 5 && y < 10); // Logical AND
+console.log(x > 15 || y < 10); // Logical OR
+console.log(!(x > 5)); // Logical NOT               
+
+
+
